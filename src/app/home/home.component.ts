@@ -58,4 +58,6 @@ export class HomeComponent implements OnInit {
     this._data.changeGoal(this.goals);
   }
 
+     
+
 }
